@@ -11,8 +11,9 @@ In this section, I have performed Exploratory Data Analysis and Visualisation of
 #### NULL Data points of each features:
 <img src="https://i.ibb.co/T4KZRF3/download-1.png" width="300"> <img src="https://i.ibb.co/qD0wvzW/download-2.png" width="300"> <img src="https://i.ibb.co/Pz104fy/download-3.png" width="300"> 
 #### More visualizations from the notebook:
+<pre>
 <img src="https://i.ibb.co/ZSGLkKf/download-4.png" width="500"> <img src="https://i.ibb.co/BzxZdYr/download-6.png" width="500"> <img src="https://i.ibb.co/fxmDPYD/download-7.png" width="500"> <img src="https://i.ibb.co/VVNPqTM/download-8.png" width="500"> <img src="https://i.ibb.co/tCFBJyd/download-9.png" width="500"> <img src="https://i.ibb.co/ZR9N0v7/download-10.png" width="500">
-
+</pre>
 ### Deep Learning:
 I haved used neural network to predict the [Total Precipitation] from the two input variables [Temperature of air at 2m above the surface, Volumetric soil water layer 1]. The Deep Learning framework of choice is PyTorch.
 
