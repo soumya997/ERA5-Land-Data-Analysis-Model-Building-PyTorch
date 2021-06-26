@@ -4,7 +4,7 @@
 </p>
 
 
-### About the Dataset
+### [About the Dataset](https://docs.google.com/document/d/1j7zf1bNZME1LftExzLvPwTqQGqSg4t837e2GF1_dpmo/edit?usp=sharing)
 The Copernicus Data Store (CDS) is a one stop shop for a wide range of historical and real time geospatial data from various remote sensing and on-the-ground weather observations. The CDS API allows for programmatic access to this data store. This API is used to obtain the following data from the [ERA5-Land Hourly Reanalysis Dataset](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview). The section in square brackets refers to the specifics of the download - 
 1. Temperature of air at 2m above the surface - [2m Temperature - 2019 - December - First 7 days - 12:00 - Whole Available Region - NetCDF]
 2. Total precipitation - [Total Precipitation - 2019 - December - First 7 days -12:00 - Whole Available Region - NetCDF]
